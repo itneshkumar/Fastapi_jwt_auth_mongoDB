@@ -8,15 +8,19 @@ Our project is a revolutionary solution for FastAPI authentication, introducing 
 
 1. **FastAPI Integration:**
    - Seamlessly leverages FastAPI's asynchronous capabilities for efficient API development.
+   <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="200" align="center" />
 
 2. **JWT Authentication:**
    - Implements a custom JWT authentication system ensuring secure user verification through digitally signed tokens.
+   <img src="https://jwt.io/img/logo-asset.svg" width="200" align="center" />
 
 3. **MongoDB Database:**
    - Integrates MongoDB for efficient and secure storage of user data, providing scalability and flexibility.
+   <img src="https://logowik.com/content/uploads/images/mongodb9740.logowik.com.webp" width="200" align="center" />
 
 4. **Middleware Verification:**
    - Employs middleware for real-time verification of JWT tokens on each request, enhancing overall system reliability and security.
+    <img src="https://mma.prnewswire.com/media/1997081/Middleware_Logo.jpg?p=twitter" width="200" align="center" />
 
 5. **Customizable User Roles:**
    - Enables administrators to define custom user roles and permissions, granting precise control over user access.
@@ -30,8 +34,6 @@ Our project is a revolutionary solution for FastAPI authentication, introducing 
 8. **Secure Password Storage:**
    - Implements secure password storage using industry-standard hashing algorithms, ensuring robust protection.
 
-9. **Documentation:**
-   - Provides comprehensive documentation for easy integration, endpoint usage, and customization.
 
 
 ## Project Overview
